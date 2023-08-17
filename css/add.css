@@ -1,0 +1,13 @@
+.add-bold{
+    font-weight: 700;
+}
+.add-white{
+    color: white;
+}
+.add-thump-img{
+    height: 262px;
+}
+.add-prj-img{
+    border-radius: 12px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
