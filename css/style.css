@@ -1241,6 +1241,7 @@ a {
 	height: auto;
 	clear: both;
 	float: left;
+	margin-top: 20px;
 }
 
 .tokyo_tm_services .list ul {
