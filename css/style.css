@@ -6,7 +6,7 @@
 /*	This file is made for CURRENT TEMPLATE
 
 
-01)	TOKYO TOKYO BASEpopup_service_image
+01)	TOKYO TOKYO BASE
 02) TOKYO MOBILE MENU
 03) TOKYO LEFTPART
 04) TOKYO RIGHTPART
@@ -1618,7 +1618,7 @@ a {
 	height: auto;
 	clear: both;
 	float: left;
-	margin-bottom: 20px;
+	/* margin-bottom: 62px; */
 }
 
 .tokyo_tm_title h3 {

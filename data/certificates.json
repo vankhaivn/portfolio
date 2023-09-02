@@ -1,0 +1,46 @@
+{
+    "01": {
+        "title": "Python for Data Science, AI & Development",
+        "from": "Coursera",
+        "img": "python_coursera.png",
+        "knowledge": [
+            "Describe Python Basics including Data Types, Expressions, Variables, and Data Structures.",
+            "Apply Python programming logic using Branching, Loops, Functions, Objects & Classes.",
+            "Demonstrate proficiency in using Python pbraries such as Pandas, Numpy, and Beautiful Soup.",
+            "Access web data using APIs and web scraping from Python in Jupyter Notebooks."
+        ],
+        "link": "https://coursera.org/share/2131ed93090294c3f2a86eba68a1451e"
+    },
+    "02": {
+        "title": "Data Visualization with Matplotlib and Seaborn",
+        "from": "Kaggle",
+        "img": "visua_kaggle.png",
+        "knowledge": [
+            "Plot different types of charts with Matplotlib and Seaborn.",
+            "Choose charts with different types of data."
+        ],
+        "link": "https://www.kaggle.com/learn/certification/zakiryuu/data-visualization"
+    },
+    "03": {
+        "title": "Data Visualization with Excel and Cognos",
+        "from": "Coursera",
+        "img": "visua_coursera.png",
+        "knowledge": [
+            "Create basic visualizations such as line graphs, bar graphs, and pie charts using Excel spreadsheets.",
+            "Explain the important role charts play in telling a data-driven story.",
+            "Construct advanced charts and visualizations such as Treemaps, Sparklines, Histogram, Scatter Plots, and Filled Map Charts.",
+            "Build and share interactive dashboards using Excel and Cognos Analytics."
+        ],
+        "link": "https://coursera.org/share/5992deae8ad252b650d6c89c9c9b3f57"
+    },
+    "04": {
+        "title": "Data Cleaning",
+        "from": "Kaggle",
+        "img": "clean_kaggle.png",
+        "knowledge": [
+            "Handling Missing Values with Python.",
+            "Scaling and Normalization."
+        ],
+        "link": "https://www.kaggle.com/learn/certification/zakiryuu/data-cleaning"
+    }
+}
