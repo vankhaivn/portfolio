@@ -6,11 +6,37 @@
 }
 .add-thump-img{
     height: 262px;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
 }
+
+.add-thump-img:hover{
+    scale: 1.1;
+}
+
 .add-prj-img{
     border-radius: 12px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 .add-knowledge-title{
     margin-bottom: 20px;
+}
+
+.add-project-description p{
+    margin-bottom: 4px;
+}
+
+.add-project-description h1, h2, h3, h4, h5, h6{
+    margin-bottom: 12px;
 }
