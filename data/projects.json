@@ -7,7 +7,7 @@
         "languages": "Python",
         "librariesorframework": "pandas, matplotlib, seaborn, numpy, vnstock",
         "tools": "Visual Studio Code",
-        "knowledge": "data cleaning, data analysis, data visualization",
+        "knowledge": "data cleaning, data analysis, data visualization, statistics",
         "description": [
             "In addition to my main job in the field of Data, I am also an investor with over 2 years of experience in the Vietnamese stock market.",
             "This time, I will apply my Data knowledge to test an investment strategy. As a result of this research, I identified a stock that aligns with the strategy I tested, yielding a total return of up to 370% and an average annual return of over 48%.",
