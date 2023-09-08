@@ -22,6 +22,17 @@
         "link": "https://www.kaggle.com/learn/certification/zakiryuu/data-visualization"
     },
     "03": {
+        "title": "Advanced SQL",
+        "from": "Kaggle",
+        "img": "advancedsql_kaggle.png",
+        "knowledge": [
+            "Combine information from multiple tables.",
+            "Perform complex calculations on groups of rows.",
+            "Write queries to run faster and use less data."
+        ],
+        "link": "https://www.kaggle.com/learn/certification/zakiryuu/advanced-sql"
+    },
+    "04": {
         "title": "Data Visualization with Excel and Cognos",
         "from": "Coursera",
         "img": "visua_coursera.png",
@@ -33,7 +44,7 @@
         ],
         "link": "https://coursera.org/share/5992deae8ad252b650d6c89c9c9b3f57"
     },
-    "04": {
+    "05": {
         "title": "Data Cleaning",
         "from": "Kaggle",
         "img": "clean_kaggle.png",
