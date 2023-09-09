@@ -127,7 +127,7 @@
         "src": "img/project/market_dashboard/",
         "link": "https://github.com/vankhaivn/Market-Dashboard",
         "languages": "Python",
-        "librariesorframework": "BeautifulSoup, pandas, matplotlib, seaborn, numpy",
+        "librariesorframework": "BeautifulSoup, pandas, requests, json",
         "tools": "Visual Studio Code, Power BI",
         "knowledge": "data cleaning, data analysis, data visualization, analyzing visualization",
         "description": [
