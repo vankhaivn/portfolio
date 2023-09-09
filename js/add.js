@@ -77,8 +77,8 @@ function generateProjectHTML(project, projectData) {
     const html = `
         <li>
             <div class="list_inner" style="overflow: hidden;">
-                <div class="image add-thump-img" style="background-image: url(${projectData[project].src}thump.png);">
-                    <div class="main" data-img-url="${projectData[project].src}thump.png"></div>
+                <div class="image add-thump-img" style="background-image: url(${projectData[project].src}thumb.png);">
+                    <div class="main" data-img-url="${projectData[project].src}thumb.png"></div>
                     <a class="tokyo_tm_full_link" href="#" onclick="openNewsPopup(this);"></a>
                 </div>
                 <div class="details">
