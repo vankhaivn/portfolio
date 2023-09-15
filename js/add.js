@@ -90,9 +90,6 @@ function generateProjectHTML(project, projectData) {
                     <h2 class="title">
                         <a>${projectData[project].title}</a>
                     </h2>
-                    <div class="tokyo_tm_read_more">
-                        <a href="#"><span>Read More</span></a>
-                    </div>
                 </div>
                 <div class="main_content">
                     <div class="descriptions">
