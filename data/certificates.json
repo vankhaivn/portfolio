@@ -1,57 +1,19 @@
 {
     "01": {
-        "title": "Python for Data Science, AI & Development",
+        "title": "IBM Data Analyst Professional Certificate",
         "from": "Coursera",
-        "img": "python_coursera.png",
+        "img": "ibm_data.png",
         "knowledge": [
-            "Describe Python Basics including Data Types, Expressions, Variables, and Data Structures.",
-            "Apply Python programming logic using Branching, Loops, Functions, Objects & Classes.",
-            "Demonstrate proficiency in using Python pbraries such as Pandas, Numpy, and Beautiful Soup.",
-            "Access web data using APIs and web scraping from Python in Jupyter Notebooks."
+            "Introduction to Data Analytics.",
+            "Excel Basics for Data Analysis.",
+            "Data Visualization and Dashboards with Excel and Cognos.",
+            "Python for Data Science, AI & Development.",
+            "Python Project for Data Science.",
+            "Databases and SQL for Data Science with Python.",
+            "Data Analysis with Python.",
+            "Data Visualization with Python.",
+            "IBM Data Analyst Capstone Project."
         ],
-        "link": "https://coursera.org/share/2131ed93090294c3f2a86eba68a1451e"
-    },
-    "02": {
-        "title": "Data Visualization with Matplotlib and Seaborn",
-        "from": "Kaggle",
-        "img": "visua_kaggle.png",
-        "knowledge": [
-            "Plot different types of charts with Matplotlib and Seaborn.",
-            "Choose charts with different types of data."
-        ],
-        "link": "https://www.kaggle.com/learn/certification/zakiryuu/data-visualization"
-    },
-    "03": {
-        "title": "Advanced SQL",
-        "from": "Kaggle",
-        "img": "advancedsql_kaggle.png",
-        "knowledge": [
-            "Combine information from multiple tables.",
-            "Perform complex calculations on groups of rows.",
-            "Write queries to run faster and use less data."
-        ],
-        "link": "https://www.kaggle.com/learn/certification/zakiryuu/advanced-sql"
-    },
-    "04": {
-        "title": "Databases and SQL for Data Science with Python",
-        "from": "Coursera",
-        "img": "database_coursera.png",
-        "knowledge": [
-            "Analyze data within a database using SQL and Python.",
-            "Create a relational database and work with tables.",
-            "Construct SQL statements including SELECT, INSERT, UPDATE, and DELETE.",
-            "Compose more powerful queries with advanced SQL techniques like views, transactions, stored procedures and joins."
-        ],
-        "link": "https://coursera.org/share/989bcf86ed276213fa64d8c2cb6a949b"
-    },
-    "05": {
-        "title": "Data Cleaning",
-        "from": "Kaggle",
-        "img": "clean_kaggle.png",
-        "knowledge": [
-            "Handling Missing Values with Python.",
-            "Scaling and Normalization."
-        ],
-        "link": "https://www.kaggle.com/learn/certification/zakiryuu/data-cleaning"
+        "link": "https://coursera.org/share/d30ff7fb646ad95efafb7357212ee8be"
     }
 }
