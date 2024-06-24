@@ -16,9 +16,9 @@ export default function Page() {
                         <div className="text-green-600">Nguyen Van Khai</div>
                     </div>
                     <div className="mt-8">
-                        Lorem ipsum dolor sit, amet consectetur adipisicing
-                        elit. Vero repudiandae quod culpa explicabo dolore
-                        dolorem ex aut fuga adipisci tenetur.
+                        I'm a last year student at the Danang University of
+                        Science and Technology. I want to become a Front End Web
+                        Developer.
                     </div>
                     <div className="flex mt-8 justify-between">
                         <Button variant="flat" size="lg" color="success">
@@ -64,22 +64,22 @@ export default function Page() {
                     />
                 </div>
             </div>
-            <div className="mt-20 flex justify-between">
+            <div className="mt-24 flex justify-between">
                 <div className="flex gap-x-4 items-center">
-                    <div className="font-bold text-5xl">12</div>
-                    <div className="w-20">Years of experience</div>
+                    <div className="font-bold text-6xl">4</div>
+                    <div className="w-24 text-xl">Projects Published</div>
                 </div>
                 <div className="flex gap-x-4 items-center">
-                    <div className="font-bold text-5xl">12</div>
-                    <div className="w-20">Years of experience</div>
+                    <div className="font-bold text-6xl">3.7</div>
+                    <div className="w-24 text-xl">GPA at University</div>
                 </div>
                 <div className="flex gap-x-4 items-center">
-                    <div className="font-bold text-5xl">12</div>
-                    <div className="w-20">Years of experience</div>
+                    <div className="font-bold text-6xl">12</div>
+                    <div className="w-24 text-xl">Years of experience</div>
                 </div>
                 <div className="flex gap-x-4 items-center">
-                    <div className="font-bold text-5xl">12</div>
-                    <div className="w-20">Years of experience</div>
+                    <div className="font-bold text-6xl">12</div>
+                    <div className="w-24 text-xl">Years of experience</div>
                 </div>
             </div>
         </div>

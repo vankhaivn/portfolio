@@ -26,9 +26,11 @@ export default function RootLayout({
         <html lang="en">
             <body className={jetbrainsMono.className}>
                 <Provider>
-                    <div className="min-h-screen px-48">
+                    <div className="min-h-screen px-4 md:px-48">
                         <Header />
-                        <Transition>{children}</Transition>
+                        <div className="pt-24">
+                            <Transition>{children}</Transition>
+                        </div>
                     </div>
                 </Provider>
             </body>
