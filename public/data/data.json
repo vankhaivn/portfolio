@@ -1,0 +1,16 @@
+{
+    "experience": [
+        {
+            "id": 1,
+            "period": "2021 - now",
+            "institution": "Danang University of Science and Technology",
+            "role": "Bachelor of Data Science"
+        },
+        {
+            "id": 2,
+            "period": "2024 - now",
+            "institution": "Free AI Utilities",
+            "role": "Intern Front End Developer"
+        }
+    ]
+}
