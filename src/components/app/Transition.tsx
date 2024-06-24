@@ -17,15 +17,12 @@ export default function Transition({
             },
         },
     }
-    const itemVariants = {
-        hidden: { opacity: 0, y: 20 },
-        visible: { opacity: 1, y: 0 },
-    }
     return (
         <motion.div
             initial="hidden"
             animate="visible"
             variants={containerVariants}
+            className="flex flex-col flex-grow"
         >
             {children}
         </motion.div>

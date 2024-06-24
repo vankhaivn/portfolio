@@ -5,7 +5,7 @@ import { Avatar, Button } from "@nextui-org/react"
 
 export default function Page() {
     return (
-        <div className="pt-16 flex flex-col justify-between">
+        <div className="pt-12 flex flex-col justify-between">
             <div className="flex justify-between flex-1">
                 <div className="flex-1">
                     <div className="mb-4 font-semibold text-xl">

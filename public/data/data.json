@@ -12,5 +12,37 @@
             "institution": "Free AI Utilities",
             "role": "Intern Front End Developer"
         }
+    ],
+    "projects": [
+        {
+            "id": "01",
+            "name": "Goblin Tools",
+            "role": "Front End Developer",
+            "description": "A tool to help you manage your tasks and projects. A tool to help you manage your tasks and projects",
+            "technologies": "NextJS, Typescript, Tailwind CSS, NextUI",
+            "tasks": [
+                "Handle Refresh, Access Token",
+                "Mutate data with useSWR",
+                "Handle multiple nested components"
+            ],
+            "link": "https://goblin-tools.vercel.app/",
+            "github": "github.com/duyph99/goblin-tools",
+            "image": "/project_img/1.jpg"
+        },
+        {
+            "id": "02",
+            "name": "Goblin Tools2",
+            "role": "Front End Developer",
+            "description": "A tool to help you manage your tasks and projects. A tool to help you manage your tasks and projects",
+            "technologies": "NextJS, Typescript, Tailwind CSS, NextUI",
+            "tasks": [
+                "Handle Refresh, Access Token",
+                "Mutate data with useSWR",
+                "Handle multiple nested components"
+            ],
+            "link": "https://goblin-tools.vercel.app/",
+            "github": "github.com/duyph99/goblin-tools",
+            "image": "/project_img/1.jpg"
+        }
     ]
 }
