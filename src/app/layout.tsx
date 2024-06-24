@@ -3,6 +3,7 @@ import { JetBrains_Mono } from "next/font/google"
 import "./globals.css"
 import Provider from "@/components/providers/Provider"
 import Header from "@/components/app/Header"
+import Transition from "@/components/app/Transition"
 import { config } from "@fortawesome/fontawesome-svg-core"
 import "@fortawesome/fontawesome-svg-core/styles.css"
 
@@ -27,7 +28,7 @@ export default function RootLayout({
                 <Provider>
                     <div className="min-h-screen px-48">
                         <Header />
-                        {children}
+                        <Transition>{children}</Transition>
                     </div>
                 </Provider>
             </body>

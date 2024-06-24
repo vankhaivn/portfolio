@@ -1,7 +1,7 @@
 import { faDownload, faEnvelope } from "@fortawesome/free-solid-svg-icons"
 import { faFacebook, faGithub } from "@fortawesome/free-brands-svg-icons"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-import { Button } from "@nextui-org/react"
+import { Avatar, Button } from "@nextui-org/react"
 
 export default function Page() {
     return (
@@ -56,7 +56,13 @@ export default function Page() {
                         </div>
                     </div>
                 </div>
-                <div className="flex-1">right</div>
+                <div className="flex-1 flex justify-end">
+                    <Avatar
+                        src="/avatar.jpg"
+                        isBordered
+                        className="w-80 h-80"
+                    />
+                </div>
             </div>
             <div className="mt-20 flex justify-between">
                 <div className="flex gap-x-4 items-center">
