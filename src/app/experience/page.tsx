@@ -13,7 +13,7 @@ export default function Page() {
     }, [])
 
     return (
-        <div className="flex items-center flex-col justify-center pt-24 px-4 sm:px-8">
+        <div className="flex items-center flex-col justify-center py-10 md:py-20 px-4 sm:px-8">
             <div className="border-l border-neutral-700 flex gap-y-24 flex-col py-12">
                 {experienceData.map((experience) => (
                     <div className="relative" key={experience.id}>

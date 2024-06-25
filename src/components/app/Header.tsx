@@ -8,6 +8,7 @@ import {
     DropdownMenu,
     DropdownItem,
     Button,
+    Divider,
 } from "@nextui-org/react"
 
 export default function Header() {
@@ -35,7 +36,7 @@ export default function Header() {
                 <div className="text-4xl font-bold">
                     Van Khai<span className="text-green-600">.</span>
                 </div>
-                <div className="hidden md:flex items-center gap-x-6">
+                <div className="hidden md:flex items-center gap-x-6 font-semibold">
                     <Link href="/" className={getLinkClassName("/")}>
                         Home <span className={spanStyle("/")}></span>
                     </Link>
@@ -52,6 +53,12 @@ export default function Header() {
                     >
                         Experience{" "}
                         <span className={spanStyle("/experience")}></span>
+                    </Link>
+                    <Link
+                        href="/skills"
+                        className={getLinkClassName("/skills")}
+                    >
+                        Skills <span className={spanStyle("/skills")}></span>
                     </Link>
                     <Link
                         href="/contact"
@@ -98,6 +105,7 @@ export default function Header() {
                     </Dropdown>
                 </div>
             </div>
+            <Divider />
         </div>
     )
 }
