@@ -66,20 +66,12 @@ export default function Page() {
             </div>
             <div className="mt-24 flex justify-between">
                 <div className="flex gap-x-4 items-center">
-                    <div className="font-bold text-6xl">4</div>
+                    <div className="font-bold text-6xl">1</div>
                     <div className="w-24 text-xl">Projects Published</div>
                 </div>
                 <div className="flex gap-x-4 items-center">
-                    <div className="font-bold text-6xl">3.7</div>
+                    <div className="font-bold text-6xl">3.6</div>
                     <div className="w-24 text-xl">GPA at University</div>
-                </div>
-                <div className="flex gap-x-4 items-center">
-                    <div className="font-bold text-6xl">12</div>
-                    <div className="w-24 text-xl">Years of experience</div>
-                </div>
-                <div className="flex gap-x-4 items-center">
-                    <div className="font-bold text-6xl">12</div>
-                    <div className="w-24 text-xl">Years of experience</div>
                 </div>
             </div>
         </div>
