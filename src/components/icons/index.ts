@@ -1,6 +1,15 @@
-export { NextJsIcon } from "./components/NextJsIcon"
-export { ReactJsIcon } from "./components/ReactJsIcon"
-export { TypescriptIcon } from "./components/TypescriptIcon"
-export { TailwindIcon } from "./components/TailwindIcon"
-export { NestJsIcon } from "./components/NestJsIcon"
-export { NodeJsIcon } from "./components/NodeJsIcon"
+import { NestJsIcon } from "./NestJsIcon"
+import { NextJsIcon } from "./NextJsIcon"
+import { NodeJsIcon } from "./NodeJsIcon"
+import { ReactJsIcon } from "./ReactJsIcon"
+import { TailwindIcon } from "./TailwindIcon"
+import { TypescriptIcon } from "./TypescriptIcon"
+
+export {
+    NextJsIcon,
+    NestJsIcon,
+    NodeJsIcon,
+    ReactJsIcon,
+    TailwindIcon,
+    TypescriptIcon,
+}

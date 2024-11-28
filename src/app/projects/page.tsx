@@ -1,4 +1,5 @@
 "use client"
+
 import { faGithub } from "@fortawesome/free-brands-svg-icons"
 import {
     faArrowLeft,
@@ -10,7 +11,7 @@ import { Button, Divider, Image } from "@nextui-org/react"
 import { useEffect, useState } from "react"
 
 export default function Page() {
-    const [projectsData, setProjectsData] = useState<IProject[]>([])
+    const [projectsData, setProjectsData] = useState<IProjectData[]>([])
     const [currentIndex, setCurrentIndex] = useState(0)
 
     useEffect(() => {

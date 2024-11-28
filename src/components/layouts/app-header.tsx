@@ -1,4 +1,5 @@
 "use client"
+
 import React from "react"
 import Link from "next/link"
 import { usePathname } from "next/navigation"
@@ -11,7 +12,7 @@ import {
     Divider,
 } from "@nextui-org/react"
 
-export default function Header() {
+export default function AppHeader() {
     const currentPath = usePathname()
 
     const getLinkClassName = (path: string) => {

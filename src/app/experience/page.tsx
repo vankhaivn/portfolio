@@ -1,9 +1,10 @@
 "use client"
+
 import { useEffect, useState } from "react"
 import { Avatar } from "@nextui-org/react"
 
 export default function Page() {
-    const [experienceData, setExperienceData] = useState<IExperience[]>([])
+    const [experienceData, setExperienceData] = useState<IExperienceData[]>([])
 
     useEffect(() => {
         fetch("/data/data.json")
@@ -13,8 +14,8 @@ export default function Page() {
     }, [])
 
     return (
-        <div className="flex items-center flex-col justify-center py-10 md:py-20 px-4 sm:px-8">
-            <div className="border-l border-neutral-700 flex gap-y-24 flex-col py-12">
+        <div className="flex items-center flex-col justify-center py-8 md:py-16 px-4 sm:px-8">
+            <div className="border-l border-neutral-700 flex gap-y-24 flex-col py-8">
                 {experienceData.map((experience) => (
                     <div className="relative" key={experience.id}>
                         <Avatar

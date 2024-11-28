@@ -1,11 +1,4 @@
-interface IExperience {
-    id: number
-    institution: string
-    period: string
-    role: string
-}
-
-interface IProject {
+interface IProjectData {
     id: string
     name: string
     role: string
