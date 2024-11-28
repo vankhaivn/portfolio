@@ -1,4 +1,4 @@
 import AppHeader from "./app-header"
-import Transition from "./Transition"
+import Transition from "./transition"
 
 export { AppHeader, Transition }
